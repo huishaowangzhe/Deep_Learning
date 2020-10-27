@@ -1,0 +1,89 @@
+absl-py==0.6.1
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596826740294/work
+astor==0.7.1
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+backcall==0.2.0
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600681203656/work
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+gast==0.2.0
+grpcio @ file:///C:/ci/grpcio_1597406495377/work
+h5py==2.8.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython-genutils==0.2.0
+jedi==0.10.2
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+jsonschema @ file:///C:/ci/jsonschema_1601485072552/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core==4.6.3
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+kiwisolver==1.0.1
+lxml==4.5.2
+Markdown==3.0.1
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1592846129657/work
+mistune==0.8.4
+mkl-fft==1.0.6
+mkl-random==1.0.1
+nbclient @ file:///tmp/build/80754af9/nbclient_1601059699549/work
+nbconvert @ file:///C:/ci/nbconvert_1601896775581/work
+nbformat==5.0.7
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1601499549014/work
+notebook @ file:///C:/ci/notebook_1601498601160/work
+numpy==1.15.1
+olefile==0.46
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1592833608684/work
+pandocfilters==1.4.2
+pickleshare==0.7.5
+Pillow==5.2.0
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+protobuf==3.6.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pygame==1.9.6
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyparsing==2.2.0
+pyrsistent @ file:///C:/ci/pyrsistent_1600141799440/work
+python-dateutil==2.7.3
+pytz==2018.5
+pywin32==227
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==19.0.2
+scikit-learn @ file:///C:/ci/scikit-learn_1598358870446/work
+scipy==1.1.0
+Send2Trash==1.5.0
+six==1.11.0
+TBB==0.1
+tensorboard==1.12.0
+tensorflow==1.12.0
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+torch==1.6.0
+torchvision==0.7.0
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==0.14.1
+wincertstore==0.2
+zipp @ file:///tmp/build/80754af9/zipp_1602002379921/work
